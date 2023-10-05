@@ -1,0 +1,7 @@
+joaozinho,20
+maria,20
+jose,15
+joaozinho,10
+maria,15
+jose,10
+manuel,5
